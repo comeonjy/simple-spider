@@ -1,4 +1,4 @@
-module simple-spider
+module github.com/comeonjy/simple-spider
 
 go 1.18
 
